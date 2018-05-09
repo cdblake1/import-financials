@@ -1,0 +1,11 @@
+C:\Workspace\pull-financial-data\obj\Debug\netcoreapp2.0\pull-financial-data.csproj.CoreCompileInputs.cache
+C:\Workspace\pull-financial-data\obj\Debug\netcoreapp2.0\pull-financial-data.AssemblyInfoInputs.cache
+C:\Workspace\pull-financial-data\obj\Debug\netcoreapp2.0\pull-financial-data.AssemblyInfo.cs
+C:\Workspace\pull-financial-data\bin\Debug\netcoreapp2.0\pull-financial-data.deps.json
+C:\Workspace\pull-financial-data\bin\Debug\netcoreapp2.0\pull-financial-data.runtimeconfig.json
+C:\Workspace\pull-financial-data\bin\Debug\netcoreapp2.0\pull-financial-data.runtimeconfig.dev.json
+C:\Workspace\pull-financial-data\bin\Debug\netcoreapp2.0\pull-financial-data.dll
+C:\Workspace\pull-financial-data\bin\Debug\netcoreapp2.0\pull-financial-data.pdb
+C:\Workspace\pull-financial-data\obj\Debug\netcoreapp2.0\pull-financial-data.csprojAssemblyReference.cache
+C:\Workspace\pull-financial-data\obj\Debug\netcoreapp2.0\pull-financial-data.dll
+C:\Workspace\pull-financial-data\obj\Debug\netcoreapp2.0\pull-financial-data.pdb
